@@ -4,9 +4,9 @@
 
 ### Primeiramente, baixe o projeto utilizando os seguintes comandos no terminal:
 
-| **$ git clone https://github.com/gabsakura/2emr-backend-IoT-dados-sensores-main** | 
+| **$ git clone https://github.com/gabsakura/back-endd.git** | 
 
-| **$ cd 2emr-backend-IoT-dados-sensores** |
+| **$ cd back-endd-main** |
 
 ### Em seguida, baixe as dependências necessárias usando o comando `npm install` para instalar todas as dependências necessárias para utilizar este código.
 
