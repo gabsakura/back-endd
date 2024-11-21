@@ -1,4 +1,4 @@
-# Este é o back-end para utilizar o código do: [Código-FrontEnd](https://github.com/gabsakura/app-dados-sensores)
+# Este é o back-end para utilizar o código do: [Código-FrontEnd](https://github.com/gabsakura/Front-end)
 
 ## Para usar este back-end, siga os seguintes passos:
 
